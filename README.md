@@ -6,14 +6,7 @@ resume for public access
 
 ## Why I built this ?
 
-**Situation:** 
-While building modern software applications, developing structured and scalable solutions is critical. The requirement was to build and maintain `resume` to address specific technical challenges and provide a robust implementation.
-
-**Task:** 
-My goal was to engineer a reliable and efficient solution for `resume`, ensuring clean architecture, maintainability, and alignment with project objectives (resume for public access).
-
-**Action:** 
-I designed and implemented the core logic and project architecture, focusing on best practices in code organization and system design. I systematically tackled the problem by breaking down the requirements, writing modular code, and integrating necessary dependencies to bring the repository to life.
-
-**Result:** 
-The project successfully fulfilled its core requirements, serving as a functional codebase. It demonstrates a clear understanding of software engineering principles and provides a solid foundation for future scaling and feature additions.
+**Situation:** Maintaining an updated, professionally formatted resume across multiple platforms is tedious when dealing with standard word processors.
+**Task:** I wanted to programmatically generate and version-control my resume using a developer-centric workflow (like LaTeX or markdown-to-PDF).
+**Action:** I created a structured repository that compiles my professional experience, skills, and projects into a pristine PDF document using automated build scripts. I focused on clean typography, extreme readability, and strict formatting rules to ensure it passes ATS (Applicant Tracking Systems) parsers effortlessly.
+**Result:** The repository provides a seamless CI/CD approach to personal branding, ensuring my resume is always perfectly formatted, version-controlled, and instantly updatable.
