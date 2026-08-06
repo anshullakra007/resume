@@ -1,9 +1,5 @@
 # resume
 
-resume for public access
-
----
-
 ## Why I built this ?
 
 ### Situation
@@ -17,3 +13,9 @@ I created a structured repository that compiles my professional experience, skil
 
 ### Result
 The repository provides a seamless CI/CD approach to personal branding, ensuring my resume is always perfectly formatted, version-controlled, and instantly updatable.
+
+---
+
+resume for public access
+
+---
